@@ -1,0 +1,15 @@
+class Projectorone{
+
+		static int id=2;
+		static String Brand="ABC";
+		static int price=249;
+		static String type="A+";
+		
+public static void main(String proj[]){
+	System.out.println("id number:"+id);
+	System.out.println("Brand:"+Brand);
+	System.out.println("Price:"+price);
+	System.out.println("type:"+type);
+	
+	}
+}
